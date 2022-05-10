@@ -1,0 +1,72 @@
+header{
+    background-image: ;
+    text-align: center;
+    background-color: gray;
+}
+
+#span_1{
+    color:white; 
+    font-family:impact; 
+    font-size:30px
+}
+nav{
+    text-align: center;
+    background-color:hsl(248, 53%, 58%);
+    width: 100%; 
+    height:80px; 
+    border-style:20px groove gray, 20px groove black"
+}
+#span_2{
+    color:black;
+    font-style:calibri;
+    font-size:30px
+}
+#span_3{
+    color:black; 
+    font-family:arial; 
+    font-size:40px
+}
+#span_4{
+    color:black; 
+    font-family:arial; 
+    font-size:40px
+}
+#span_5{
+    color:black; 
+    font-family:arial; 
+    font-size:40px
+}
+#span_6{
+    color:black; 
+    font-family:arial; 
+    font-size:30px
+}
+#span_7{
+    color:black; 
+    font-family:arial; 
+    font-size:40px
+}
+#menudeseccion {
+    background-color:yellow; 
+    float:left; 
+    width:25%; 
+    height:1040px
+}
+#migas {
+    background-color:green; 
+    float:right; 
+    width: 75%; 
+    height:200px"
+  
+}
+#contenidodeseccion {
+    background-color: blue; 
+    float:right; 
+    width:75%; 
+    height:996px
+  
+}
+footer{
+   
+    background-color: red
+}
