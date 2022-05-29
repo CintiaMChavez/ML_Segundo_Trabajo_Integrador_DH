@@ -242,19 +242,19 @@ footer {
     text-align: center;
 }
 
-.control-formulario {
+.v-formulario {
     margin-bottom: 45px;
     text-align: left;
     margin-left: 10%;
 }
 
-.control-formulario h3 {
+.v-formulario h3 {
     margin: -22.5px 0 22.5px;
     display: block;
     text-align: left;
 }
 
-.control {
+.input-form {
     width: 88.5%;
     padding: 8px;
     border-radius: 5px;
